@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+people_map.json
+preview.json
+meeting-preview.json
+.cache/
+*.log
+__pycache__/
+.sync.lock
+.venv/
